@@ -2,8 +2,9 @@
 "Hello World" in about 10+ Programming Languages. This is just an introduction for me to GitHub :D
 
 Currently includes languages: Python, C, C++, and HTML!
+Languages adding later: Java, JavaScript, Rachet (Bean_Pringle's Language), and C#.
 
-I am trying to learn just the gist of most of the programming languages, like variables and printing text.
+I am trying to learn the basics of various programming languages, such as variables and printing text.
 The formatting of each of the files will go like this, using Python's Hello World as an example:
 ```
 hello = "Hello Python World!"
