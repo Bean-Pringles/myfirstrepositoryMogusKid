@@ -2,3 +2,15 @@
 "Hello World" in about 10+ Programming Languages. This is just an introduction for me to GitHub :D
 
 Currently includes languages: Python, C, C++, and HTML!
+
+I am trying to learn just the gist of most of the programming languages, like variables and printing text.
+The formatting of each of the files will go like this, using Python's Hello World as an example:
+```
+hello = "Hello Python World!"
+print(hello)
+```
+The code needs to have a variable (if possible) set to the string "Hello [Language] World!" and needs to print that variable.
+
+I will use W3Schools to learn each of these languages, and maybe some other sources.
+
+This is just a fun little project for me to do when I have some free time, and also to explore other programming languages.
