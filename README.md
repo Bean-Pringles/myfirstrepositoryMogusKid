@@ -3,9 +3,9 @@
 "Hello World" in about 10+ Programming Languages. This is just an introduction for me to GitHub :D
 
 
-Currently includes languages: Python, C, C++, and HTML!
+Currently includes languages: Python, C, C++, Rachet (@Bean_Pringle's language), and HTML!
 
-Languages adding later: Java, JavaScript, Rachet (Bean_Pringle's Language), and C#.
+Languages to be added later: Java, JavaScript, Rust, and C#.
 
 
 I am trying to learn the basics of various programming languages, such as variables and printing text.
@@ -23,3 +23,6 @@ I will use W3Schools to learn each of these languages, and maybe some other sour
 
 
 This is just a fun little project for me to do when I have some free time, and also to explore other programming languages.
+
+
+Also, for the Rachet language, it uses an extension in VSCode :D.
