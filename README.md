@@ -10,6 +10,8 @@ Languages to be added later: Java, JavaScript, Rust, and C#.
 
 I am trying to learn the basics of various programming languages, such as variables and printing text.
 
+<h3>Formatting</h3>
+
 The formatting of each of the files will go like this, using Python's Hello World as an example:
 
 ```
